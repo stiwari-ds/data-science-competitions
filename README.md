@@ -1,7 +1,7 @@
 # data-science-competitions
 
-1. HackerEarth
+1. Analytics_Vidhya
 2. DPhi
-3. Analytics_Vidhya
+3. HackerEarth
 4. MachineHack
 5. topcoder
